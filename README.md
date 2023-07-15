@@ -6,4 +6,4 @@ This is a landing page for Disneys Kids platform Disneyplus. I enjoyed creating 
 The purpose of the project was to practise building a real landing page that is fully responsive for tablets and mobile devices.
 
 # Setup
-You can see the landing page from here
+You can see the landing page from here (https://ajaykumarlakku.github.io/Disney.in-landingPage/)
