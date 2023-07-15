@@ -1,4 +1,4 @@
-# esponsive Disneyplus landing page - responsive
+#  Disneyplus landing page - responsive
 
 This is a landing page for Disneys Kids platform Disneyplus. I enjoyed creating it because Marvel is my favorite studio and as you know Disney/Mickey owns it now.
 
